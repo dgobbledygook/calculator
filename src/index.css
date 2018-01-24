@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.number {
+    border: 1px solid black;
+    height: 150px;
+    padding: 18%;
+    margin-bottom: 20px;
+    background-color: #76d1ff
+}
+
+.number input{
+    border: 1px solid black;
+    width: 70px;
+    margin-left: 20px;
+    padding: 5px;
+}
+
+.radio label{
+    margin-left: 20px;
+}
+
+.result {
+    border: 1px solid black;
+    height: 150px;
+    padding: 7%;
+    background-color: #fac0cb;
+}
