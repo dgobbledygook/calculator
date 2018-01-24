@@ -16,6 +16,8 @@
     "eject": "react-scripts eject"
   },
   "jest": {
-    "moduleNameMapper": { "\\.(css|less)$": "<rootDir>/__mocks__/styleMock.js" }
+    "moduleNameMapper": {
+      "\\.(css|less)$": "<rootDir>/__mocks__/styleMock.js"
+    }
   }
 }
